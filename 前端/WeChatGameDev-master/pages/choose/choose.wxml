@@ -1,0 +1,33 @@
+<!--pages/choose/choose.wxml-->
+<view class="container">
+  <view id="title">
+  选择你的阵营
+  </view>
+  <view class="choices">
+    <button 
+      id="blue" 
+      size="{{button.choices.size}}" 
+      style="background-color:{{button.choices.blue.style.bgColor}};color:{{button.choices.blue.style.color}};"
+      bindtap="choose">
+        <view class="title">{{button.choices.blue.title}}</view>
+        <view class="context">{{button.choices.blue.context}}</view>
+    </button>
+    <view class="empty"/>
+    <button 
+      id="green" 
+      size="{{button.choices.size}}" 
+      style="background-color:{{button.choices.green.style.bgColor}};color:{{button.choices.green.style.color}};"
+      bindtap="choose">
+        <view class="title">{{button.choices.green.title}}</view>
+        <view class="context">{{button.choices.green.context}}</view>
+      </button>
+  </view>
+  <button id="submit"
+    disabled="{{button.submit.disable}}"
+    loading="{{button.submit.loading}}"
+    bindtap="submit"
+    style="color:{{button.submit.color}};border: 5rpx solid {{button.submit.borderColor}}"
+    >
+    {{button.submit.context}}
+  </button>
+</view>

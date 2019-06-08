@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ssm/.settings/.settings.iml" filepath="$PROJECT_DIR$/ssm/.settings/.settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Servers/Servers.iml" filepath="$PROJECT_DIR$/Servers/Servers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ui-Gui/Ui-Gui.iml" filepath="$PROJECT_DIR$/Ui-Gui/Ui-Gui.iml" />
+      <module fileurl="file://$PROJECT_DIR$/server.iml" filepath="$PROJECT_DIR$/server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ssm/ssm.iml" filepath="$PROJECT_DIR$/ssm/ssm.iml" />
+    </modules>
+  </component>
+</project>

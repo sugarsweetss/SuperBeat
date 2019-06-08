@@ -1,0 +1,17 @@
+2019-05-22 15:44:32,396 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-22 15:45:44,433 [Worker-7: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cn.edu.neu:Ui-Gui:0.0.1-SNAPSHOT @ F:\download\eclipse\projects\server\Ui-Gui\pom.xml.
+2019-05-22 15:45:44,433 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cn.edu.neu:Ui-Gui:0.0.1-SNAPSHOT @ F:\download\eclipse\projects\server\Ui-Gui\pom.xml.
+2019-05-22 15:45:47,087 [Worker-6: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-05-22 15:45:47,087 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-05-22 15:45:48,659 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-05-22 15:45:52,475 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-22 15:45:52,548 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-05-22 15:45:52,604 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-22 15:45:52,604 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-05-22 15:45:54,131 [Worker-4: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-05-22 15:45:55,262 [Worker-6: Updating Maven Dependencies] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cn.edu.neu:Ui-Gui:0.0.1-SNAPSHOT @ F:\download\eclipse\projects\server\Ui-Gui\pom.xml.
+2019-05-22 15:45:55,282 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-22 15:45:55,310 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-05-22 15:45:55,354 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-22 15:45:55,354 [Worker-4: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-05-22 15:45:55,767 [Worker-6: Updating Maven Dependencies] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details

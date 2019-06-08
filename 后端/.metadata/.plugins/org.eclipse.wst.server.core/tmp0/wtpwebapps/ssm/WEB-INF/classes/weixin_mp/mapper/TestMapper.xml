@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<!-- namespace 的值对应的是要实现的接口类的全类名 -->
+<mapper namespace="weixin_mp.mapper.TestMapper">
+	
+	<!-- 此处id要与TestMapper接口里方法名相同，
+		parameterType是方法传进来的参数，resultType是方法返回值，可以写成对应类的类名首字母小写形式
+		#{}  {}里面是接口中对应的参数名，在接口中可以使用@Param 注解指定对应的参数名
+	-->
+	<insert id="newTest" parameterType="test">
+		insert into t_test values(#{name, jdbcType=VARCHAR}, #{number, jdbcType=INTEGER})
+	</insert>
+	
+	<select id="getTest" parameterType="string" resultType="test">
+		select * from t_test where name=#{name}
+	</select>
+
+</mapper>

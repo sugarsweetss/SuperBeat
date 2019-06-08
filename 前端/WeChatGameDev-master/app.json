@@ -1,0 +1,28 @@
+{
+  "pages": [
+    "pages/lead/lead",
+    "pages/index/index",
+    "pages/userpage/userpage",
+    "pages/choose/choose"
+  ],
+  "permission": {
+    "scope.userLocation": {
+      "desc": "你的位置信息将用于小程序位置接口的效果展示"
+    }
+  },
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#243142",
+    "navigationBarTitleText": "SUPER BEAT",
+    "navigationBarTextStyle": "white"
+  },
+  "networkTimeout": {
+    "request": 10000,
+    "downloadFile": 10000
+  },
+  "debug": true,
+  "navigateToMiniProgramAppIdList": [
+    "wx18a2ac992306a5a4"
+  ],
+  "sitemapLocation": "sitemap.json"
+}

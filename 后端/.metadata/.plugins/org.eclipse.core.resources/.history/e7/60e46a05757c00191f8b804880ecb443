@@ -1,0 +1,29 @@
+package weixin_mp.controller;
+
+import vefvef
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import weixin_mp.serviceImpl.userServiceImpl;
+
+/**
+ * 接收前端的sessionId-userChoice信息，设置数据库中的玩家阵营
+ *
+ */
+
+@RestController
+@RequestMapping("/choose/")         //映射的路径
+public class chooseController {
+	
+	//注入userServiceImpl
+	@Autowired
+	private userServiceImpl userServiceImpl;
+	
+	@PostMapping("")
+	//设置玩家阵营
+	public void setUserChoice(String sessionId,String userChoice) {
+		userServiceImpl.setUserChoice(sessionId, userChoice);
+	}
+}

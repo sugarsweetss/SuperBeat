@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="weixin_mp.mapper.markerMapper">
+
+
+	<!--获取所有marker信息  -->
+	<select id="initNearMarkers" resultType="marker">
+		select * from marker where latitude between #{swlatitude} and #{nelatitude} and longitude between #{swlongitude} and #{nelongitude}
+	</select>
+	
+	
+	<!-- 更新marker -->
+	<!-- content和color利用list批量处理，判断当id在数据库中时执行操作，即相当于对数据库中所有数据进行更新 -->
+	<update id="markersUpdate" parameterType="java.util.List">
+		update marker
+		set content=
+			<foreach collection="list" item="item" index="index" separator=" " open="case id" close="end,">
+					when #{item.id} then #{item.content}
+			</foreach>
+			color=
+			<foreach collection="list" item="item" index="index" separator=" " open="case id" close="end">
+					when #{item.id} then #{item.color}
+			</foreach>
+			where id in
+			<foreach collection="list" item="item" index="index" open="(" close=")" separator=",">
+				#{item.id}
+			</foreach>
+	</update>
+	
+	
+	<!-- 获取所有marker信息 -->
+	<select id="getAllMarkers" resultType="marker">
+		select * from marker
+	</select>
+	
+	
+	<!-- 获取用户攻击点附近的点参与地图更新的计算，选取的区域为当前区域的9倍(边长是视野的3倍) -->
+	<!-- 参与计算点的区域参数随时可以调整 -->
+	<select id="getNearMarkersForCalc" resultType="marker">
+		select * from marker where longitude between 3*#{swlongitude}-2*#{longitude} and 3*#{nelongitude}-2*#{longitude} 
+		and latitude between 3*#{swlatitude}-2*#{latitude} and 3*#{nelatitude}-2*#{latitude} 
+	</select>
+	
+
+</mapper>

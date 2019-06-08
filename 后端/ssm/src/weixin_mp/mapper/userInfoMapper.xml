@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd" >
+
+<mapper namespace="weixin_mp.mapper.userInfoMapper">
+    
+    <!-- 删除sessionId的玩家信息 -->
+	<delete id="deleteUserInfo" parameterType="String">
+		delete from userInfo where sessionId=#{sessionId}
+	</delete>
+	
+	<!-- 返回sessionId的玩家的userChoice -->
+	<select id="getUserChoice" parameterType="String" resultType="String">
+		select userChoice from userInfo where sessionId=#{sessionId}
+	</select>
+	
+	<!-- 根据前端的sessionId-userChoice对，设置化玩家的阵营 -->
+	<update id ="setUserChoice">
+		update userInfo set userChoice=#{userChoice} where sessionId=#{sessionId}
+	</update>
+	
+	<!-- 插入新玩家信息 -->
+	<insert id="insertUserInfo" parameterType="userInfo">
+		insert into userInfo(openId,sessionId,sessionKey,userChoice) values(#{openId},#{sessionId},#{sessionKey},#{userChoice,jdbcType=VARCHAR})
+	</insert>
+	
+	<!-- 判断用户是否已经注册 -->
+	<select id="userHasRegistered" parameterType="String" resultType="int">
+		select count(*) from userInfo where openId=#{openId}
+	</select>
+	
+	<!-- 根据openId查找用户的sessionId -->
+	<select id="findSessionId" parameterType="String" resultType="String">
+		select sessionId from userInfo where openId=#{openId}
+	</select>
+	
+	<!-- 根据openId查找用户的userChoice -->
+	<select id="findUserChoice" parameterType="String" resultType="String">
+		select userChoice from userInfo where openId=#{openId}
+	</select>
+</mapper>

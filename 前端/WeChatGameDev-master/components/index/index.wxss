@@ -1,0 +1,38 @@
+/* components/index/index.wxss */
+map{
+  height: 100%;
+  width: 100%;
+}
+
+.buttons{
+  position: relative;
+  top: 76%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.userpage{
+  overflow: hidden;
+  display: block;
+  width: 120rpx;  
+  height: 120rpx;  
+  border-radius: 50%; 
+  margin: 20rpx;  
+}
+
+.beat{
+  height: 35%;
+  width: 35%;
+}
+
+.empty{
+  height: 5%;
+  width: 5%;
+}
+
+.location{
+  height: 20%;
+  width: 20%;
+  left: 10%;
+}

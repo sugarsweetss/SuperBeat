@@ -1,0 +1,16 @@
+<!--userpage.wxml-->
+<view class="container">
+  <view id="userInfo">
+    <image src="../../image/logo.png"/>
+  </view>
+  <view class="about">
+    <button bindtap="showUsage">使用指南</button>
+    <view class="empty" />
+    <button bindtap="destroy">注销用户</button>
+    <view class="empty"/>
+    <button bindtap="getApeInfo">关于我们</button>
+    <view class="empty" />
+    <view class="empty" />
+  </view>
+  <text bindtap="admire" style="color: rgb(0, 255, 255); font-size: 30rpx;">赞赏开发者</text>
+</view>

@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class='view'>
+  <index id='index'
+    avatarUrl="{{avatarUrl}}"
+    userChoice="{{userChoice}}"
+    firstTime="{{firstTime}}"
+    subkey="OH2BZ-KL335-2D6I7-QGIAW-RNXI5-UHFCG"
+  />
+</view>

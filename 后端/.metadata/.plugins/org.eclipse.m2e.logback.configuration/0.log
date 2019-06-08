@@ -1,0 +1,168 @@
+2019-04-08 15:34:20,772 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-08 15:36:05,580 [Worker-8: Building workspace] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: cn.edu.neu:Ui-Gui:0.0.1-SNAPSHOT @ F:\download\eclipse\projects\server\Ui-Gui\pom.xml.
+2019-04-08 15:36:06,192 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-04-08 15:36:07,161 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-04-08 15:36:09,625 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 15:36:09,631 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-04-08 15:36:09,655 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 15:36:09,655 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-08 15:36:32,804 [Worker-6: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-04-08 15:36:33,202 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 15:36:33,207 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-04-08 15:36:33,220 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 15:36:33,221 [Worker-6: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-08 15:37:49,842 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 15:37:49,843 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-04-08 15:37:49,857 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 15:37:49,857 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-08 15:37:57,758 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 15:37:57,759 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-04-08 15:37:57,786 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 15:37:57,786 [Worker-3: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-08 15:41:18,567 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 15:41:18,568 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-04-08 15:41:18,573 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 15:41:18,574 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-08 15:41:18,578 [Worker-9: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of Ui-Gui
+2019-04-08 15:41:18,579 [Worker-9: Building workspace] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for Ui-Gui
+2019-04-08 15:41:18,613 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 15:41:45,207 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 15:41:45,207 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-08 15:41:45,209 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 15:41:45,209 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-08 16:42:45,062 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 16:42:45,062 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-08 16:42:45,065 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 16:42:45,065 [Worker-14: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-08 18:54:32,584 [Worker-24: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 18:54:32,589 [Worker-24: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-04-08 18:54:32,608 [Worker-24: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 18:54:32,609 [Worker-24: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-08 22:49:54,990 [Worker-53: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 22:49:54,992 [Worker-53: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-04-08 22:49:55,003 [Worker-53: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-08 22:49:55,003 [Worker-53: Rebuilding] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-09 00:28:43,066 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-09 08:07:32,504 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-09 11:25:27,339 [Worker-35: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-04-09 11:25:30,621 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-09 11:25:30,641 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-04-09 11:25:30,685 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-09 11:25:30,685 [Worker-35: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-09 16:31:25,952 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-04-10 09:45:16,081 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-10 10:14:29,584 [Worker-9: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-04-10 10:14:32,155 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-10 10:14:32,198 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-04-10 10:14:32,242 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-10 10:14:32,243 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-10 10:14:53,587 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-10 10:14:53,589 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-10 10:14:53,591 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-10 10:14:53,591 [Worker-9: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-10 21:13:52,962 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-04-10 21:13:57,403 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-04-10 21:13:58,668 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-10 21:13:58,675 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-04-10 21:13:58,800 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-10 21:13:58,800 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-12 22:28:21,636 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-04-12 22:28:24,201 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2019-04-12 22:28:36,374 [Worker-1: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-04-12 22:28:40,405 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-12 22:28:40,463 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-04-12 22:28:40,472 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-12 22:28:40,473 [Worker-1: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-12 22:28:43,850 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-12 22:28:43,854 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-04-12 22:28:43,856 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-12 22:28:43,857 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-14 21:33:33,985 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-04-14 21:33:46,805 [Worker-10: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-04-14 21:33:51,744 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-14 21:33:51,757 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-04-14 21:33:51,766 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-14 21:33:51,766 [Worker-10: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-14 21:40:20,029 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-14 21:47:11,497 [Worker-0: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-04-14 21:47:12,533 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-14 21:47:12,540 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-04-14 21:47:12,551 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-14 21:47:12,551 [Worker-0: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-15 12:14:12,799 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-15 12:14:13,255 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-04-15 12:14:13,259 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-15 12:14:13,259 [Worker-18: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-16 10:16:33,276 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-04-16 10:22:41,020 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-04-16 10:22:45,081 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-16 10:22:45,095 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-04-16 10:22:45,103 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-16 10:22:45,103 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-17 08:12:57,340 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-04-17 08:16:37,424 [Worker-7: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-04-17 08:16:41,385 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-17 08:16:41,442 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-04-17 08:16:41,453 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-17 08:16:41,453 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-04-27 09:49:38,510 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-04-27 09:54:57,125 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-04-27 09:55:00,748 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-27 09:55:00,817 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-04-27 09:55:00,828 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-04-27 09:55:00,828 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-05-01 13:33:33,684 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-05 07:59:47,505 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-05 09:13:09,374 [Worker-22: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-05-05 09:13:12,676 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-05 09:13:12,731 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-05-05 09:13:12,742 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-05 09:13:12,742 [Worker-22: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-05-15 14:56:00,565 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-15 14:57:28,650 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-05-15 14:57:31,840 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-15 14:57:31,914 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-05-15 14:57:31,928 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-15 14:57:31,928 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-05-15 16:06:56,824 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-17 18:46:19,921 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-21 10:42:14,665 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-22 11:52:51,800 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-22 11:54:59,954 [Worker-13: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-05-22 11:55:06,906 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-22 11:55:06,940 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-05-22 11:55:06,962 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-22 11:55:06,963 [Worker-13: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-05-22 15:47:37,968 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-22 15:49:27,412 [Worker-2: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-05-22 15:49:28,354 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-22 15:49:28,359 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-05-22 15:49:28,368 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-22 15:49:28,368 [Worker-2: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-05-22 15:49:30,458 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-22 15:49:30,462 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-22 15:49:30,464 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-22 15:49:30,465 [Worker-7: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-05-22 17:27:29,645 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-22 17:35:19,893 [Worker-11: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-05-22 17:35:21,721 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-22 17:35:21,726 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-05-22 17:35:21,734 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-22 17:35:21,734 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-05-22 21:26:13,444 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-24 16:01:04,523 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2019-05-24 16:09:03,311 [Worker-8: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-05-24 16:09:07,392 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-24 16:09:07,448 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-05-24 16:09:07,505 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-24 16:09:07,506 [Worker-8: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-05-27 23:44:24,690 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-05-27 23:48:22,378 [Worker-12: Building workspace] WARN  o.e.m.c.i.embedder.EclipseLogger - The POM for p6spy:p6spy:jar:2.1.4 is invalid, transitive dependencies (if any) will not be available, enable debug logging for more details
+2019-05-27 23:48:25,284 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-27 23:48:25,305 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 4 resources
+2019-05-27 23:48:25,336 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-27 23:48:25,337 [Worker-12: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources
+2019-05-27 23:48:30,511 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-27 23:48:30,516 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-05-27 23:48:30,517 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'utf8' encoding to copy filtered resources.
+2019-05-27 23:48:30,518 [Worker-11: Building workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory F:\download\eclipse\projects\server\Ui-Gui\src\test\resources

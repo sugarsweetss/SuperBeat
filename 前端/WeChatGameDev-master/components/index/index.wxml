@@ -1,0 +1,21 @@
+<!--components/index/index.wxml-->
+<map 
+  id="usermap" 
+  longitude="{{map.userInfo.longitude}}" 
+  latitude="{{map.userInfo.latitude}}" 
+  subkey="{{subkey}}"
+  markers="{{map.markers}}"  
+  bindmarkertap="markertap"
+  circles="{{map.circles}}"
+  bindregionchange="regionChange"
+  show-location>
+  <cover-view class="buttons">
+    <cover-view class="userpage" bindtap="toUserPage" style='border: 5px solid {{userBorder}}'>
+      <cover-image src="{{avatarUrl}}"/>
+    </cover-view>
+    <cover-view class="empty"/>
+    <cover-image class="beat" src="{{logo}}" bindtap="_beat"/>
+    <cover-view class="empty"/>
+    <cover-image class="location" src="{{location}}" bindtap="_moveToLocation"/>
+  </cover-view>
+</map>

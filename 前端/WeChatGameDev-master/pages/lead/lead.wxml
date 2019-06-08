@@ -1,0 +1,21 @@
+<view class="container">
+  <view class="userinfo">
+    <view class="userinfo-avatar" style='box-shadow: 0px 0px 5px 5px {{userBoxShadow}}'>
+      <open-data type="userAvatarUrl"></open-data>
+    </view>
+    <view class="userinfo-nick-name" style="color: {{userBoxShadow}}">
+      <open-data type="userNickName"></open-data>
+    </view>
+  </view>
+  <view class="begin">
+    <button
+      wx:if="{{canIUse}}"
+      open-type="getUserInfo"
+      bindgetuserinfo="bindGetUserInfo"
+      plain="{{plain}}"
+    >
+      <image src="{{begin_image}}"/>
+    </button>
+    <view wx:else>请升级微信版本</view>
+  </view>
+</view>

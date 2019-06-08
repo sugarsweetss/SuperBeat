@@ -1,0 +1,42 @@
+page{
+  height: 100%;
+  width: 100%;
+}
+.container{
+  height: 100%;
+  width: 100%;
+}
+#userInfo{
+  position: relative;
+  height: 30%;
+  width: 100%;
+  display: flex;  
+  flex-direction: column;  
+  align-items: center;  
+}
+
+image{
+  width: 100px;
+  height: 100px;
+}
+
+button{
+  border: 3rpx solid rgb(0, 255, 255);
+  background-color: #243142;
+  color: rgb(0, 255, 255);
+}
+.about{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  justify-content: center;
+  align-items: center;
+}
+.empty{
+  height: 25rpx;
+}
+.button-hover{
+  background-color: rgb(0, 255, 255);
+  color: #243142;
+}
