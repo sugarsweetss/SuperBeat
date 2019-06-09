@@ -1,6 +1,6 @@
 # SuperBeat
 腾讯微信小程序大赛参赛作品<br>
-![](./images/choose.png "选择阵营界面")
+<div align=center>![](./images/choose.png "选择阵营界面")
 ## 项目介绍
 参见介绍文档。
 ## 效果展示
