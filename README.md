@@ -1,6 +1,7 @@
 # SuperBeat
 腾讯微信小程序大赛参赛作品<br>
-<div align=center><image src="./images/choose.png">
+<div align=center><image src="./images/choose.png"/></div>
+
 ## 项目介绍
 参见介绍文档。
 ## 效果展示
